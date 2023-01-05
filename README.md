@@ -13,8 +13,8 @@
 ### Task 
 ----
 
-> Using the [attr_data.db](https://drive.google.com/file/d/13cdx4kWB6-WZe1VTjPqnFRgYzzGZHt2x/view?usp=sharing), extract all the data from the only table in the database using SQL. Once the data is extracted, import the data into Pandas and continue with the analysis.
-> #### The following questions should be answered:
+> The [attr_data.db](https://drive.google.com/file/d/13cdx4kWB6-WZe1VTjPqnFRgYzzGZHt2x/view?usp=sharing), was extracted from the only table in the database using SQL. It was then imported into Jupyter Notebook using Pandas.
+> #### The following questions was answered:
 > #### <li><a href="#What do you think are the 3 factors behind employee attrition?">What do you think are the 3 factors behind employee attrition?</a></li>
 >#### <li><a href="#What is the relationship between Education and Monthly Income?">What is the relationship between Education and Monthly Income?</a></li>
 >#### <li><a href="#What is the effect of age on attrition?">What is the effect of age on attrition?</a></li>
